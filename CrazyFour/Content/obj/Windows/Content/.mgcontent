@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/palla/CrazyFour/team-alfonso/CrazyFour/CrazyFour/Content/DefaultFont.spritefont</File>
+    <File>C:/Users/palla/CrazyFour/team-alfonso/CrazyFour/CrazyFour/Content/Images/Lazers/AguaLazer.png</File>
+    <File>C:/Users/palla/CrazyFour/team-alfonso/CrazyFour/CrazyFour/Content/Images/Lazers/BlueLazer.png</File>
+    <File>C:/Users/palla/CrazyFour/team-alfonso/CrazyFour/CrazyFour/Content/Images/Lazers/GreenLazer.png</File>
+    <File>C:/Users/palla/CrazyFour/team-alfonso/CrazyFour/CrazyFour/Content/Images/Lazers/RedLazer.png</File>
+    <File>C:/Users/palla/CrazyFour/team-alfonso/CrazyFour/CrazyFour/Content/Images/Lazers/YellowLazer.png</File>
+    <File>C:/Users/palla/CrazyFour/team-alfonso/CrazyFour/CrazyFour/Content/Images/Players/boss.png</File>
+    <File>C:/Users/palla/CrazyFour/team-alfonso/CrazyFour/CrazyFour/Content/Images/Players/capo.png</File>
+    <File>C:/Users/palla/CrazyFour/team-alfonso/CrazyFour/CrazyFour/Content/Images/Players/hero.png</File>
+    <File>C:/Users/palla/CrazyFour/team-alfonso/CrazyFour/CrazyFour/Content/Images/Players/soldier.png</File>
+    <File>C:/Users/palla/CrazyFour/team-alfonso/CrazyFour/CrazyFour/Content/Images/Players/underboss.png</File>
+    <File>C:/Users/palla/CrazyFour/team-alfonso/CrazyFour/CrazyFour/Content/Images/space.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

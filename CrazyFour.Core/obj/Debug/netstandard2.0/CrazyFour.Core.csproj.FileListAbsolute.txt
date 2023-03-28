@@ -1,0 +1,11 @@
+C:\Users\palla\CrazyFour\team-alfonso\CrazyFour\CrazyFour.Core\bin\Debug\netstandard2.0\CrazyFour.Core.deps.json
+C:\Users\palla\CrazyFour\team-alfonso\CrazyFour\CrazyFour.Core\bin\Debug\netstandard2.0\CrazyFour.Core.dll
+C:\Users\palla\CrazyFour\team-alfonso\CrazyFour\CrazyFour.Core\bin\Debug\netstandard2.0\CrazyFour.Core.pdb
+C:\Users\palla\CrazyFour\team-alfonso\CrazyFour\CrazyFour.Core\obj\Debug\netstandard2.0\CrazyFour.Core.csprojAssemblyReference.cache
+C:\Users\palla\CrazyFour\team-alfonso\CrazyFour\CrazyFour.Core\obj\Debug\netstandard2.0\CrazyFour.Core.AssemblyInfoInputs.cache
+C:\Users\palla\CrazyFour\team-alfonso\CrazyFour\CrazyFour.Core\obj\Debug\netstandard2.0\CrazyFour.Core.AssemblyInfo.cs
+C:\Users\palla\CrazyFour\team-alfonso\CrazyFour\CrazyFour.Core\obj\Debug\netstandard2.0\CrazyFour.Core.csproj.CoreCompileInputs.cache
+C:\Users\palla\CrazyFour\team-alfonso\CrazyFour\CrazyFour.Core\obj\Debug\netstandard2.0\CrazyFour.Core.dll
+C:\Users\palla\CrazyFour\team-alfonso\CrazyFour\CrazyFour.Core\obj\Debug\netstandard2.0\CrazyFour.Core.pdb
+C:\Users\palla\CrazyFour\team-alfonso\CrazyFour\CrazyFour.Core\bin\Debug\netstandard2.0\config.json
+C:\Users\palla\CrazyFour\team-alfonso\CrazyFour\CrazyFour.Core\obj\Debug\netstandard2.0\CrazyFour.Core.GeneratedMSBuildEditorConfig.editorconfig
